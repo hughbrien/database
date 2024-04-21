@@ -1,4 +1,4 @@
-module database
+module github.com/hughbrien/database
 
 go 1.21
 
